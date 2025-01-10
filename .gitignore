@@ -1,0 +1,13 @@
+Thunar/
+Trolltech.conf
+autostart/
+dconf/
+gtk-3.0/
+htop/
+libreoffice/
+mc/
+neofetch/
+pulse/
+user-dirs.*
+xfce4/
+xubuntu/

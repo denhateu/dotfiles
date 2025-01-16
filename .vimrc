@@ -1,3 +1,4 @@
+set bg=dark
 syntax on
 
 set tabstop=2
@@ -7,7 +8,7 @@ set autoindent
 set number
 set hlsearch
 set ruler
-set clipboard=unnamed
+set clipboard=unnamedplus
 set nobackup
 set noswapfile
 

@@ -1,5 +1,5 @@
 export CLICOLOR=1
-export PS1=$'%n@%m:\e[0;36m%~\e[0m$ '
+export PS1='%F{green}%n@%m%f %F{cyan}%~%f $ '
 export EDITOR='vim'
 
 alias cs=clear

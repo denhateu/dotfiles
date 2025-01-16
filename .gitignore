@@ -1,13 +1,12 @@
 Thunar/
 Trolltech.conf
-autostart/
 dconf/
+globaltime/
 gtk-3.0/
-htop/
 libreoffice/
-mc/
-neofetch/
+mimeapps.list
 pulse/
-user-dirs.*
+transmission/
+user-*.*
 xfce4/
 xubuntu/

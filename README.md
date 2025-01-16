@@ -1,1 +1,1 @@
-# Moi Linux files
+# Мои конфиги для Linux

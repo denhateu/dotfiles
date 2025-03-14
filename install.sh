@@ -2,6 +2,8 @@
 cp .bashrc ~/
 cp .vimrc ~/
 cp .tmux.conf ~/
+cp .bash_profile ~/
+cp .xinitrc ~/
 
 # Create directories for some configs
 mkdir -p ~/.config/i3/

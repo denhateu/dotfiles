@@ -1,6 +1,7 @@
 # Copy configs
-cp .bashrc ~/.bashrc
-cp .vimrc ~/.vimrc
+cp .bashrc ~/
+cp .vimrc ~/
+cp .tmux.conf ~/
 
 # Create directories for some configs
 mkdir -p ~/.config/i3/
